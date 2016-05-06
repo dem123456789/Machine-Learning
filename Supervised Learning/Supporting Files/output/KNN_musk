@@ -1,0 +1,251 @@
+-------------------------------MUSK KNN----------------------------------
+------------------------------------------------------------------------------------------------
+neighbor: 1
+
+Options: -K 1 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"" 
+
+IB1 instance-based classifier
+using 1 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 8.23 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances        4618              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0002
+Root mean squared error                  0.0002
+Relative absolute error                  0.0817 %
+Root relative squared error              0.0594 %
+Total Number of Instances             4618     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3894    0 |    a = 0
+    0  724 |    b = 1
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances        4383               94.9112 %
+Incorrectly Classified Instances       235                5.0888 %
+Kappa statistic                          0.8127
+Mean absolute error                      0.0511
+Root mean squared error                  0.2255
+Relative absolute error                 19.32   %
+Root relative squared error             62.0282 %
+Total Number of Instances             4618     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3752  142 |    a = 0
+   93  631 |    b = 1
+
+------------------------------------------------------------------------------------------------
+neighbor: 2
+
+Options: -K 2 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"" 
+
+IB1 instance-based classifier
+using 2 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 10.34 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances        4529               98.0728 %
+Incorrectly Classified Instances        89                1.9272 %
+Kappa statistic                          0.9233
+Mean absolute error                      0.0241
+Root mean squared error                  0.1096
+Relative absolute error                  9.1264 %
+Root relative squared error             30.1513 %
+Total Number of Instances             4618     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3894    0 |    a = 0
+   89  635 |    b = 1
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances        4456               96.492  %
+Incorrectly Classified Instances       162                3.508  %
+Kappa statistic                          0.8577
+Mean absolute error                      0.0568
+Root mean squared error                  0.1921
+Relative absolute error                 21.4891 %
+Root relative squared error             52.8442 %
+Total Number of Instances             4618     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3873   21 |    a = 0
+  141  583 |    b = 1
+
+------------------------------------------------------------------------------------------------
+neighbor: 3
+
+Options: -K 3 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"" 
+
+IB1 instance-based classifier
+using 3 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 10.99 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances        4544               98.3976 %
+Incorrectly Classified Instances        74                1.6024 %
+Kappa statistic                          0.9381
+Mean absolute error                      0.036 
+Root mean squared error                  0.1247
+Relative absolute error                 13.6156 %
+Root relative squared error             34.2898 %
+Total Number of Instances             4618     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3876   18 |    a = 0
+   56  668 |    b = 1
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances        4422               95.7557 %
+Incorrectly Classified Instances       196                4.2443 %
+Kappa statistic                          0.8373
+Mean absolute error                      0.0634
+Root mean squared error                  0.1846
+Relative absolute error                 23.9586 %
+Root relative squared error             50.783  %
+Total Number of Instances             4618     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3808   86 |    a = 0
+  110  614 |    b = 1
+
+------------------------------------------------------------------------------------------------
+neighbor: 4
+
+Options: -K 4 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"" 
+
+IB1 instance-based classifier
+using 4 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 11.92 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances        4509               97.6397 %
+Incorrectly Classified Instances       109                2.3603 %
+Kappa statistic                          0.9052
+Mean absolute error                      0.0449
+Root mean squared error                  0.1345
+Relative absolute error                 16.9656 %
+Root relative squared error             36.984  %
+Total Number of Instances             4618     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3891    3 |    a = 0
+  106  618 |    b = 1
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances        4449               96.3404 %
+Incorrectly Classified Instances       169                3.6596 %
+Kappa statistic                          0.8527
+Mean absolute error                      0.0695
+Root mean squared error                  0.1842
+Relative absolute error                 26.2576 %
+Root relative squared error             50.6514 %
+Total Number of Instances             4618     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3863   31 |    a = 0
+  138  586 |    b = 1
+
+------------------------------------------------------------------------------------------------
+neighbor: 5
+
+Options: -K 5 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"" 
+
+IB1 instance-based classifier
+using 5 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 12.88 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances        4507               97.5964 %
+Incorrectly Classified Instances       111                2.4036 %
+Kappa statistic                          0.9063
+Mean absolute error                      0.0537
+Root mean squared error                  0.1454
+Relative absolute error                 20.3019 %
+Root relative squared error             39.993  %
+Total Number of Instances             4618     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3865   29 |    a = 0
+   82  642 |    b = 1
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances        4427               95.864  %
+Incorrectly Classified Instances       191                4.136  %
+Kappa statistic                          0.8397
+Mean absolute error                      0.0766
+Root mean squared error                  0.1861
+Relative absolute error                 28.9632 %
+Root relative squared error             51.1945 %
+Total Number of Instances             4618     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3820   74 |    a = 0
+  117  607 |    b = 1
+

@@ -1,0 +1,291 @@
+-------------------------------Wine Quality Red KNN----------------------------------
+------------------------------------------------------------------------------------------------
+neighbor: 1
+
+Options: -K 1 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"" 
+
+IB1 instance-based classifier
+using 1 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 0.15 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances        1119              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0013
+Root mean squared error                  0.0018
+Relative absolute error                  0.6131 %
+Root relative squared error              0.5546 %
+Total Number of Instances             1119     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   <-- classified as
+   9   0   0   0   0   0 |   a = 3
+   0  32   0   0   0   0 |   b = 4
+   0   0 469   0   0   0 |   c = 5
+   0   0   0 453   0   0 |   d = 6
+   0   0   0   0 146   0 |   e = 7
+   0   0   0   0   0  10 |   f = 8
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         683               61.0366 %
+Incorrectly Classified Instances       436               38.9634 %
+Kappa statistic                          0.389 
+Mean absolute error                      0.1307
+Root mean squared error                  0.3594
+Relative absolute error                 60.9317 %
+Root relative squared error            109.8249 %
+Total Number of Instances             1119     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   <-- classified as
+   0   2   5   2   0   0 |   a = 3
+   1   4  14  10   3   0 |   b = 4
+   5   3 331 118  12   0 |   c = 5
+   1   7 122 267  53   3 |   d = 6
+   0   3  11  48  81   3 |   e = 7
+   0   0   2   3   5   0 |   f = 8
+
+------------------------------------------------------------------------------------------------
+neighbor: 2
+
+Options: -K 2 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"" 
+
+IB1 instance-based classifier
+using 2 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 0.16 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         884               78.9991 %
+Incorrectly Classified Instances       235               21.0009 %
+Kappa statistic                          0.6671
+Mean absolute error                      0.0659
+Root mean squared error                  0.1857
+Relative absolute error                 30.7175 %
+Root relative squared error             56.7531 %
+Total Number of Instances             1119     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   <-- classified as
+   9   0   0   0   0   0 |   a = 3
+   2  25   3   2   0   0 |   b = 4
+   3   4 445  16   1   0 |   c = 5
+   0   8 121 317   7   0 |   d = 6
+   0   3  12  43  88   0 |   e = 7
+   0   0   2   3   5   0 |   f = 8
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         651               58.1769 %
+Incorrectly Classified Instances       468               41.8231 %
+Kappa statistic                          0.3291
+Mean absolute error                      0.144 
+Root mean squared error                  0.3279
+Relative absolute error                 67.1045 %
+Root relative squared error            100.2182 %
+Total Number of Instances             1119     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   <-- classified as
+   0   3   4   2   0   0 |   a = 3
+   1   5  14  10   2   0 |   b = 4
+   7  16 356  87   3   0 |   c = 5
+   0   8 178 240  27   0 |   d = 6
+   0   3  28  65  50   0 |   e = 7
+   0   0   2   4   4   0 |   f = 8
+
+------------------------------------------------------------------------------------------------
+neighbor: 3
+
+Options: -K 3 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"" 
+
+IB1 instance-based classifier
+using 3 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 0.19 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         861               76.9437 %
+Incorrectly Classified Instances       258               23.0563 %
+Kappa statistic                          0.6344
+Mean absolute error                      0.098 
+Root mean squared error                  0.2239
+Relative absolute error                 45.6897 %
+Root relative squared error             68.4319 %
+Total Number of Instances             1119     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   <-- classified as
+   7   0   1   1   0   0 |   a = 3
+   2  11   9   8   2   0 |   b = 4
+   1   2 401  63   2   0 |   c = 5
+   0   1  87 339  26   0 |   d = 6
+   0   1  19  23 103   0 |   e = 7
+   0   0   2   4   4   0 |   f = 8
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         631               56.3896 %
+Incorrectly Classified Instances       488               43.6104 %
+Kappa statistic                          0.3051
+Mean absolute error                      0.1537
+Root mean squared error                  0.3196
+Relative absolute error                 71.64   %
+Root relative squared error             97.6562 %
+Total Number of Instances             1119     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   <-- classified as
+   0   1   5   3   0   0 |   a = 3
+   0   1  19  10   2   0 |   b = 4
+   5  10 311 134   9   0 |   c = 5
+   0   8 146 256  43   0 |   d = 6
+   1   2  26  54  63   0 |   e = 7
+   0   0   2   5   3   0 |   f = 8
+
+------------------------------------------------------------------------------------------------
+neighbor: 4
+
+Options: -K 4 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"" 
+
+IB1 instance-based classifier
+using 4 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 0.2 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         821               73.3691 %
+Incorrectly Classified Instances       298               26.6309 %
+Kappa statistic                          0.5699
+Mean absolute error                      0.1143
+Root mean squared error                  0.2394
+Relative absolute error                 53.3063 %
+Root relative squared error             73.1547 %
+Total Number of Instances             1119     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   <-- classified as
+   1   1   3   4   0   0 |   a = 3
+   0   8  13   9   2   0 |   b = 4
+   0   0 415  50   4   0 |   c = 5
+   0   2 115 317  19   0 |   d = 6
+   1   0  15  50  80   0 |   e = 7
+   0   0   1   5   4   0 |   f = 8
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         648               57.9088 %
+Incorrectly Classified Instances       471               42.0912 %
+Kappa statistic                          0.3204
+Mean absolute error                      0.1582
+Root mean squared error                  0.3132
+Relative absolute error                 73.7373 %
+Root relative squared error             95.7194 %
+Total Number of Instances             1119     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   <-- classified as
+   0   1   5   3   0   0 |   a = 3
+   0   1  18  11   2   0 |   b = 4
+   3   3 350 104   9   0 |   c = 5
+   0   6 171 239  37   0 |   d = 6
+   0   0  23  65  58   0 |   e = 7
+   0   0   3   4   3   0 |   f = 8
+
+------------------------------------------------------------------------------------------------
+neighbor: 5
+
+Options: -K 5 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"" 
+
+IB1 instance-based classifier
+using 5 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 0.19 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         790               70.5987 %
+Incorrectly Classified Instances       329               29.4013 %
+Kappa statistic                          0.5259
+Mean absolute error                      0.127 
+Root mean squared error                  0.2512
+Relative absolute error                 59.2164 %
+Root relative squared error             76.7791 %
+Total Number of Instances             1119     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   <-- classified as
+   1   0   5   3   0   0 |   a = 3
+   0   3  17   9   3   0 |   b = 4
+   2   2 380  83   2   0 |   c = 5
+   0   1  97 327  28   0 |   d = 6
+   0   0  16  51  79   0 |   e = 7
+   0   0   2   4   4   0 |   f = 8
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         644               57.5514 %
+Incorrectly Classified Instances       475               42.4486 %
+Kappa statistic                          0.3144
+Mean absolute error                      0.1628
+Root mean squared error                  0.3114
+Relative absolute error                 75.8673 %
+Root relative squared error             95.1588 %
+Total Number of Instances             1119     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   <-- classified as
+   1   0   4   4   0   0 |   a = 3
+   0   1  17  13   1   0 |   b = 4
+   2   5 329 125   8   0 |   c = 5
+   1   0 148 260  44   0 |   d = 6
+   0   0  24  69  53   0 |   e = 7
+   0   0   1   4   5   0 |   f = 8
+

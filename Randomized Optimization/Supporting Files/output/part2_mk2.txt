@@ -1,0 +1,54 @@
+SA(0.95 cooling rate): 260.0
+Time : 4.344 seconds
+============================
+SA(0.7 cooling rate): 260.0
+Time : 4.404 seconds
+============================
+SA(0.5 cooling rate): 260.0
+Time : 5.334 seconds
+============================
+SA(0.3 cooling rate): 260.0
+Time : 5.289 seconds
+============================
+SA(0.1 cooling rate): 260.0
+Time : 5.715 seconds
+============================
+GA(160 crossover):518.0
+Time : 170.218 seconds
+============================
+GA(120 crossover):518.0
+Time : 144.332 seconds
+============================
+GA(100 crossover):518.0
+Time : 124.409 seconds
+============================
+GA(80 crossover):518.0
+Time : 101.188 seconds
+============================
+GA(40 crossover):518.0
+Time : 74.715 seconds
+============================
+GA(20 crossover):518.0
+Time : 61.488 seconds
+============================
+GA(10 crossover):518.0
+Time : 54.339 seconds
+============================
+MIMIC(150 samples to keep):427.0
+Time : 8.022 seconds
+MIMIC(125 samples to keep):463.0
+Time : 8.313 seconds
+MIMIC(100 samples to keep):506.0
+Time : 8.604 seconds
+MIMIC(75 samples to keep):506.0
+Time : 8.413 seconds
+MIMIC(50 samples to keep):463.0
+Time : 7.724 seconds
+MIMIC(30 samples to keep):518.0
+Time : 8.258 seconds
+MIMIC(40 samples to keep):518.0
+Time : 8.217 seconds
+MIMIC(20 samples to keep):487.0
+Time : 7.801 seconds
+MIMIC(10 samples to keep):487.0
+Time : 7.693 seconds

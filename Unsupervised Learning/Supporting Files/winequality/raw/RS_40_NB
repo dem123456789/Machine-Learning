@@ -1,0 +1,121 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.NaiveBayes 
+Relation:     winequality-white-weka.filters.unsupervised.attribute.NumericToNominal-Rlast-weka.filters.unsupervised.attribute.RandomSubset-N9.0-S40
+Instances:    4898
+Attributes:   10
+              fixed acidity
+              volatile acidity
+              citric acid
+              free sulfur dioxide
+              total sulfur dioxide
+              density
+              pH
+              sulphates
+              alcohol
+              quality
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                          Class
+Attribute                     3        4        5        6        7        8        9
+                            (0)   (0.03)    (0.3)   (0.45)   (0.18)   (0.04)      (0)
+======================================================================================
+fixed acidity
+  mean                    7.5904   7.1289   6.9353   6.8417   6.7388   6.6613   7.4507
+  std. dev.               1.6889   1.0791   0.8367   0.8344   0.7569    0.816   0.8944
+  weight sum                  20      163     1457     2198      880      175        5
+  precision               0.1552   0.1552   0.1552   0.1552   0.1552   0.1552   0.1552
+
+volatile acidity
+  mean                    0.3336   0.3812    0.302   0.2605   0.2626   0.2774   0.2994
+  std. dev.               0.1377   0.1731   0.0999   0.0881    0.091   0.1073   0.0522
+  weight sum                  20      163     1457     2198      880      175        5
+  precision               0.0082   0.0082   0.0082   0.0082   0.0082   0.0082   0.0082
+
+citric acid
+  mean                    0.3368   0.3037   0.3375   0.3389   0.3274   0.3281    0.386
+  std. dev.               0.0813   0.1637   0.1408    0.119   0.0788   0.0853   0.0691
+  weight sum                  20      163     1457     2198      880      175        5
+  precision               0.0193   0.0193   0.0193   0.0193   0.0193   0.0193   0.0193
+
+free sulfur dioxide
+  mean                   53.2374    23.36  36.4338  35.6106  34.0676  36.8687  33.3008
+  std. dev.              67.8315  20.2941  18.1516  15.7374  13.3042  16.2205  12.0317
+  weight sum                  20      163     1457     2198      880      175        5
+  precision               2.1908   2.1908   2.1908   2.1908   2.1908   2.1908   2.1908
+
+total sulfur dioxide
+  mean                  170.5898  125.302 150.9038 137.0321 125.1056  126.118 116.1976
+  std. dev.             105.0968  52.5911  44.0744  41.2953  32.7387   32.874  18.0683
+  weight sum                  20      163     1457     2198      880      175        5
+  precision                1.724    1.724    1.724    1.724    1.724    1.724    1.724
+
+density
+  mean                    0.9949   0.9943   0.9953    0.994   0.9925   0.9922   0.9915
+  std. dev.               0.0028   0.0025   0.0025    0.003   0.0028   0.0028   0.0028
+  weight sum                  20      163     1457     2198      880      175        5
+  precision               0.0001   0.0001   0.0001   0.0001   0.0001   0.0001   0.0001
+
+pH
+  mean                    3.1868   3.1829    3.169   3.1886   3.2138   3.2188   3.3065
+  std. dev.               0.2034   0.1631    0.141   0.1511   0.1583   0.1514   0.0721
+  weight sum                  20      163     1457     2198      880      175        5
+  precision               0.0108   0.0108   0.0108   0.0108   0.0108   0.0108   0.0108
+
+sulphates
+  mean                    0.4736   0.4765   0.4821   0.4912    0.503   0.4859   0.4675
+  std. dev.               0.1168   0.1178   0.0982   0.1136   0.1304    0.147   0.0809
+  weight sum                  20      163     1457     2198      880      175        5
+  precision                0.011    0.011    0.011    0.011    0.011    0.011    0.011
+
+alcohol
+  mean                   10.3485  10.1528   9.8096  10.5759   11.368  11.6352  12.1812
+  std. dev.               1.1835   1.0021   0.8485   1.1482   1.2458   1.2764   0.9086
+  weight sum                  20      163     1457     2198      880      175        5
+  precision               0.0608   0.0608   0.0608   0.0608   0.0608   0.0608   0.0608
+
+
+
+Time taken to build model: 0.04 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2323               47.4275 %
+Incorrectly Classified Instances      2575               52.5725 %
+Kappa statistic                          0.2316
+Mean absolute error                      0.1683
+Root mean squared error                  0.3089
+Relative absolute error                 87.1945 %
+Root relative squared error             99.4266 %
+Coverage of cases (0.95 level)          92.4867 %
+Mean rel. region size (0.95 level)      40.7513 %
+Total Number of Instances             4898     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.300    0.003    0.316      0.300    0.308      0.305    0.824     0.233     3
+                 0.215    0.019    0.276      0.215    0.241      0.220    0.797     0.197     4
+                 0.609    0.255    0.503      0.609    0.551      0.338    0.749     0.521     5
+                 0.427    0.320    0.521      0.427    0.469      0.110    0.588     0.514     6
+                 0.511    0.175    0.390      0.511    0.443      0.304    0.751     0.386     7
+                 0.029    0.005    0.167      0.029    0.049      0.055    0.747     0.115     8
+                 0.000    0.000    0.000      0.000    0.000      -0.000   0.483     0.005     9
+Weighted Avg.    0.474    0.252    0.470      0.474    0.465      0.215    0.679     0.466     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   <-- classified as
+   6   4   4   4   2   0   0 |   a = 3
+   2  35  62  56   7   1   0 |   b = 4
+   4  52 888 444  68   1   0 |   c = 5
+   4  30 688 939 528   9   0 |   d = 6
+   1   2 107 305 450  14   1 |   e = 7
+   2   4  15  55  94   5   0 |   f = 8
+   0   0   0   1   4   0   0 |   g = 9
+

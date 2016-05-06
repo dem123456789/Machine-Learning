@@ -1,0 +1,54 @@
+SA: 0.09249101347605564
+Time : 2.752 seconds
+============================
+SA: 0.08226595407469672
+Time : 2.698 seconds
+============================
+SA: 0.09466851774352508
+Time : 2.629 seconds
+============================
+SA: 0.08995667180059312
+Time : 2.650 seconds
+============================
+SA: 0.09135528144687974
+Time : 2.724 seconds
+============================
+GA(160 crossover):0.10653876315425367
+Time : 128.598 seconds
+============================
+GA(120 crossover):0.11915362784571057
+Time : 95.704 seconds
+============================
+GA(100 crossover):0.1230523862823353
+Time : 83.549 seconds
+============================
+GA(80 crossover):0.11456373156649519
+Time : 63.333 seconds
+============================
+GA(40 crossover):0.023953746842434058
+Time : 31.264 seconds
+============================
+GA(20 crossover):0.02384255167269249
+Time : 18.637 seconds
+============================
+GA(10 crossover):0.024851482638880627
+Time : 12.141 seconds
+============================
+MIMIC(150 samples to keep):0.05596700387343595
+Time : 509.507 seconds
+MIMIC(125 samples to keep):0.06870779816359744
+Time : 484.162 seconds
+MIMIC(100 samples to keep):0.06460555860521644
+Time : 468.269 seconds
+MIMIC(75 samples to keep):0.0791150239226505
+Time : 454.309 seconds
+MIMIC(50 samples to keep):0.06587686265658652
+Time : 443.217 seconds
+MIMIC(30 samples to keep):0.07829813938694412
+Time : 432.339 seconds
+MIMIC(40 samples to keep):0.06960317951482091
+Time : 430.108 seconds
+MIMIC(20 samples to keep):0.0719002046420994
+Time : 399.355 seconds
+MIMIC(10 samples to keep):0.08687606184777921
+Time : 396.144 seconds

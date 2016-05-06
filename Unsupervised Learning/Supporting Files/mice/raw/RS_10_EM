@@ -1,0 +1,225 @@
+=== Run information ===
+
+Scheme:       weka.clusterers.EM -I 100 -N -1 -X 10 -max -1 -ll-cv 1.0E-6 -ll-iter 1.0E-6 -M 1.0E-6 -K 10 -num-slots 1 -S 100
+Relation:     mice-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.NominalToBinary-R78-80-weka.filters.unsupervised.attribute.RandomSubset-N32.0-S10
+Instances:    1080
+Attributes:   33
+              NR1_N
+              pCAMKII_N
+              pMEK_N
+              pNR1_N
+              BRAF_N
+              CREB_N
+              ELK_N
+              ERK_N
+              MEK_N
+              TRKA_N
+              APP_N
+              SOD1_N
+              P38_N
+              pMTOR_N
+              NR2B_N
+              RAPTOR_N
+              NUMB_N
+              pPKCG_N
+              CDK5_N
+              ADARB1_N
+              AcetylH3K9_N
+              BAX_N
+              GFAP_N
+              GluR4_N
+              SNCA_N
+              pGSK3B_Tyr216_N
+              BAD_N
+              BCL2_N
+              pS6_N
+              SYP_N
+              H3AcK18_N
+              Treatment=Saline
+Ignored:
+              class
+Test mode:    Classes to clusters evaluation on training data
+
+=== Clustering model (full training set) ===
+
+
+EM
+==
+
+Number of clusters selected by cross validation: 6
+Number of iterations performed: 2
+
+
+                   Cluster
+Attribute                0       1       2       3       4       5
+                    (0.19)  (0.19)  (0.16)  (0.19)  (0.15)  (0.12)
+===================================================================
+NR1_N
+  mean               2.2994  2.5566  2.0725  2.1386  1.9938  2.8121
+  std. dev.          0.1754  0.1633   0.266  0.2335  0.2613  0.2118
+
+pCAMKII_N
+  mean               3.7977  4.1797  2.6823  4.0955  2.5423  3.6542
+  std. dev.          1.2168  1.3091  0.6133  1.0298  0.9738  1.4191
+
+pMEK_N
+  mean               0.2952  0.2871  0.2374  0.2978  0.2345  0.2907
+  std. dev.          0.0389  0.0271  0.0394   0.044  0.0349  0.0398
+
+pNR1_N
+  mean                0.825  0.9109  0.7376  0.7931   0.718  0.9969
+  std. dev.          0.0576  0.0623  0.0878  0.0764  0.0784  0.0943
+
+BRAF_N
+  mean               0.3618  0.3639  0.3148  0.2911  0.4396  0.5693
+  std. dev.          0.0957  0.1351   0.128  0.0541  0.1627  0.4716
+
+CREB_N
+  mean               0.1939  0.1783  0.1623  0.1961  0.1638  0.1841
+  std. dev.          0.0231  0.0179  0.0162   0.031  0.0238  0.0194
+
+ELK_N
+  mean               1.0833  1.3544   1.078  0.9962   0.896  1.7777
+  std. dev.          0.1103  0.1706  0.2321  0.1294  0.1651    0.36
+
+ERK_N
+  mean                2.374  2.8957  2.2665  1.9423  2.0743  3.5698
+  std. dev.          0.3253  0.3822  0.5069   0.326  0.3864  0.4793
+
+MEK_N
+  mean               0.2825  0.2903  0.2487  0.2681  0.2316  0.3212
+  std. dev.          0.0284  0.0215   0.033   0.036  0.0336  0.0324
+
+TRKA_N
+  mean               0.6912  0.7731  0.6431  0.6275   0.599  0.8571
+  std. dev.          0.0869  0.0522  0.1013  0.0977  0.1071  0.0561
+
+APP_N
+  mean               0.4033  0.4246  0.3846   0.388  0.3782  0.4624
+  std. dev.          0.0565  0.0509  0.0592  0.0548  0.0539  0.0547
+
+SOD1_N
+  mean               0.5763  0.6199  0.5063  0.6793  0.3076  0.5027
+  std. dev.          0.2426  0.3421  0.3004  0.2073  0.0643  0.2616
+
+P38_N
+  mean               0.4353  0.4192  0.3414  0.5151  0.3578  0.3948
+  std. dev.          0.0628  0.0545  0.0531  0.0976  0.0578  0.0653
+
+pMTOR_N
+  mean               0.7854   0.821  0.6198  0.8411    0.65  0.8168
+  std. dev.            0.07  0.0906  0.1273  0.0708  0.0549  0.0903
+
+NR2B_N
+  mean               0.5887  0.5977  0.4745  0.6121   0.486  0.6265
+  std. dev.          0.0544  0.0499  0.0798   0.077  0.0521  0.0769
+
+RAPTOR_N
+  mean               0.3356  0.3203  0.2641  0.3555  0.2754  0.3363
+  std. dev.          0.0484  0.0382  0.0229  0.0557  0.0302  0.0495
+
+NUMB_N
+  mean               0.1673  0.1927  0.1942  0.1578  0.1651  0.2226
+  std. dev.          0.0161  0.0144   0.026  0.0173  0.0194  0.0299
+
+pPKCG_N
+  mean               1.7072  1.6491  2.0987  1.5597  1.5675  1.6752
+  std. dev.          0.6634  0.5099  0.6215   0.291  0.5782  0.5769
+
+CDK5_N
+  mean               0.2873  0.3006  0.3074  0.2707  0.2727  0.3261
+  std. dev.          0.0255  0.0206  0.0505  0.0332  0.0292  0.0296
+
+ADARB1_N
+  mean               1.1536  1.3955  1.0714  1.0735  0.9325  1.6464
+  std. dev.          0.2355  0.2771  0.3558  0.1719  0.2029  0.4541
+
+AcetylH3K9_N
+  mean               0.1584  0.1781  0.3484  0.2612  0.1541  0.2008
+  std. dev.          0.0847  0.1018  0.2668  0.2564  0.0671  0.1224
+
+BAX_N
+  mean               0.1753  0.1878  0.1825  0.1726  0.1639  0.1976
+  std. dev.          0.0139  0.0117  0.0166  0.0183  0.0204  0.0123
+
+GFAP_N
+  mean               0.1225  0.1164  0.1246  0.1224   0.117  0.1231
+  std. dev.          0.0151  0.0115  0.0095  0.0167  0.0112  0.0098
+
+GluR4_N
+  mean               0.1197  0.1335  0.1275  0.1256  0.1182  0.1372
+  std. dev.          0.0207  0.0355  0.0206  0.0326  0.0197  0.0167
+
+SNCA_N
+  mean                0.163  0.1534  0.1541   0.187  0.1433  0.1513
+  std. dev.          0.0176  0.0195   0.018  0.0237    0.02  0.0158
+
+pGSK3B_Tyr216_N
+  mean               0.8234  0.8655  0.8643  0.8112    0.85  0.8977
+  std. dev.          0.1079  0.0741  0.0829  0.0797  0.0896  0.1057
+
+BAD_N
+  mean               0.1673  0.1464  0.1608   0.174  0.1507  0.1417
+  std. dev.          0.0235   0.016  0.0275  0.0316   0.022  0.0165
+
+BCL2_N
+  mean               0.1405  0.1271  0.1315  0.1511  0.1308  0.1219
+  std. dev.          0.0185  0.0185   0.016  0.0284  0.0257  0.0178
+
+pS6_N
+  mean               0.1199  0.1282  0.1159    0.13  0.1075  0.1257
+  std. dev.          0.0129  0.0126  0.0102  0.0113  0.0105  0.0144
+
+SYP_N
+  mean               0.4484  0.4759  0.4162  0.4466  0.3876  0.5081
+  std. dev.          0.0525  0.0453  0.0589  0.0567   0.054  0.0697
+
+H3AcK18_N
+  mean               0.1679  0.1531  0.1853  0.2084  0.1443  0.1492
+  std. dev.          0.0277  0.0378  0.0643  0.0726  0.0297  0.0419
+
+Treatment=Saline
+  mean               0.6452  0.2928       1  0.1289  0.1512  0.7121
+  std. dev.          0.4784  0.4551  0.0003  0.3351  0.3582  0.4528
+
+
+
+Time taken to build model (full training data) : 27.88 seconds
+
+=== Model and evaluation on training set ===
+
+Clustered Instances
+
+0       211 ( 20%)
+1       203 ( 19%)
+2       215 ( 20%)
+3       181 ( 17%)
+4       142 ( 13%)
+5       128 ( 12%)
+
+
+Log likelihood: 41.39551
+
+
+Class attribute: class
+Classes to Clusters:
+
+  0  1  2  3  4  5  <-- assigned to cluster
+ 33 48  0  7 36 26 | c-CS-m
+ 30 25  0 83 12  0 | c-SC-m
+ 31  6 55  0  5 38 | c-CS-s
+ 34 42 32 14  0 13 | c-SC-s
+ 22 25  0  0 79  9 | t-CS-m
+ 20 41  0 66  0  8 | t-SC-m
+  6  2 68  4 10 15 | t-CS-s
+ 35 14 60  7  0 19 | t-SC-s
+
+Cluster 0 <-- t-SC-s
+Cluster 1 <-- c-CS-m
+Cluster 2 <-- t-CS-s
+Cluster 3 <-- c-SC-m
+Cluster 4 <-- t-CS-m
+Cluster 5 <-- c-CS-s
+
+Incorrectly clustered instances :	729.0	 67.5    %
+

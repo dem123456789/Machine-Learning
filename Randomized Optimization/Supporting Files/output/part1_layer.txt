@@ -1,0 +1,2845 @@
+--------------3 hidden layers--------------
+--------------100 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 1571.0 instances.
+Incorrectly classified 3047.0 instances.
+Percent correctly classified: 34.019%
+Training time: 2.914 seconds
+Testing time: 0.027 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 647.0 instances.
+Incorrectly classified 1333.0 instances.
+Percent correctly classified: 32.677%
+Testing time: 0.013 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 1905.0 instances.
+Incorrectly classified 2713.0 instances.
+Percent correctly classified: 41.252%
+Training time: 2.541 seconds
+Testing time: 0.024 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 829.0 instances.
+Incorrectly classified 1151.0 instances.
+Percent correctly classified: 41.869%
+Testing time: 0.012 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3827.0 instances.
+Incorrectly classified 791.0 instances.
+Percent correctly classified: 82.871%
+Training time: 2.494 seconds
+Testing time: 0.021 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1651.0 instances.
+Incorrectly classified 329.0 instances.
+Percent correctly classified: 83.384%
+Testing time: 0.010 seconds
+
+Convergence in 100 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3935.0 instances.
+Incorrectly classified 683.0 instances.
+Percent correctly classified: 85.210%
+Training time: 2.744 seconds
+Testing time: 0.025 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1708.0 instances.
+Incorrectly classified 272.0 instances.
+Percent correctly classified: 86.263%
+Testing time: 0.009 seconds
+
+--------------200 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3787.0 instances.
+Incorrectly classified 831.0 instances.
+Percent correctly classified: 82.005%
+Training time: 5.422 seconds
+Testing time: 0.024 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1633.0 instances.
+Incorrectly classified 347.0 instances.
+Percent correctly classified: 82.475%
+Testing time: 0.011 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 1990.0 instances.
+Incorrectly classified 2628.0 instances.
+Percent correctly classified: 43.092%
+Training time: 5.383 seconds
+Testing time: 0.032 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 861.0 instances.
+Incorrectly classified 1119.0 instances.
+Percent correctly classified: 43.485%
+Testing time: 0.011 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 5.346 seconds
+Testing time: 0.024 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.012 seconds
+
+Convergence in 200 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3901.0 instances.
+Incorrectly classified 717.0 instances.
+Percent correctly classified: 84.474%
+Training time: 5.411 seconds
+Testing time: 0.027 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1688.0 instances.
+Incorrectly classified 292.0 instances.
+Percent correctly classified: 85.253%
+Testing time: 0.012 seconds
+
+--------------400 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3008.0 instances.
+Incorrectly classified 1610.0 instances.
+Percent correctly classified: 65.136%
+Training time: 10.831 seconds
+Testing time: 0.026 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1269.0 instances.
+Incorrectly classified 711.0 instances.
+Percent correctly classified: 64.091%
+Testing time: 0.013 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 747.0 instances.
+Incorrectly classified 3871.0 instances.
+Percent correctly classified: 16.176%
+Training time: 11.116 seconds
+Testing time: 0.026 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 301.0 instances.
+Incorrectly classified 1679.0 instances.
+Percent correctly classified: 15.202%
+Testing time: 0.012 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3813.0 instances.
+Incorrectly classified 805.0 instances.
+Percent correctly classified: 82.568%
+Training time: 10.361 seconds
+Testing time: 0.026 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1660.0 instances.
+Incorrectly classified 320.0 instances.
+Percent correctly classified: 83.838%
+Testing time: 0.012 seconds
+
+Convergence in 400 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 10.462 seconds
+Testing time: 0.027 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.011 seconds
+
+--------------600 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3891.0 instances.
+Incorrectly classified 727.0 instances.
+Percent correctly classified: 84.257%
+Training time: 16.731 seconds
+Testing time: 0.021 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1677.0 instances.
+Incorrectly classified 303.0 instances.
+Percent correctly classified: 84.697%
+Testing time: 0.012 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 16.227 seconds
+Testing time: 0.019 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.008 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 15.691 seconds
+Testing time: 0.025 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.009 seconds
+
+Convergence in 76 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3916.0 instances.
+Incorrectly classified 702.0 instances.
+Percent correctly classified: 84.799%
+Training time: 1.966 seconds
+Testing time: 0.022 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1695.0 instances.
+Incorrectly classified 285.0 instances.
+Percent correctly classified: 85.606%
+Testing time: 0.009 seconds
+
+--------------1000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 27.316 seconds
+Testing time: 0.024 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.008 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3128.0 instances.
+Incorrectly classified 1490.0 instances.
+Percent correctly classified: 67.735%
+Training time: 26.281 seconds
+Testing time: 0.025 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1324.0 instances.
+Incorrectly classified 656.0 instances.
+Percent correctly classified: 66.869%
+Testing time: 0.010 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 25.655 seconds
+Testing time: 0.024 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.011 seconds
+
+Convergence in 37 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 0.979 seconds
+Testing time: 0.026 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.010 seconds
+
+--------------1500 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3918.0 instances.
+Incorrectly classified 700.0 instances.
+Percent correctly classified: 84.842%
+Training time: 42.863 seconds
+Testing time: 0.025 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1697.0 instances.
+Incorrectly classified 283.0 instances.
+Percent correctly classified: 85.707%
+Testing time: 0.011 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3939.0 instances.
+Incorrectly classified 679.0 instances.
+Percent correctly classified: 85.297%
+Training time: 40.815 seconds
+Testing time: 0.018 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1710.0 instances.
+Incorrectly classified 270.0 instances.
+Percent correctly classified: 86.364%
+Testing time: 0.011 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 40.975 seconds
+Testing time: 0.025 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.012 seconds
+
+Convergence in 32 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 0.820 seconds
+Testing time: 0.024 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.010 seconds
+
+--------------2000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 54.609 seconds
+Testing time: 0.027 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.011 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 53.779 seconds
+Testing time: 0.023 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.010 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3893.0 instances.
+Incorrectly classified 725.0 instances.
+Percent correctly classified: 84.301%
+Training time: 57.190 seconds
+Testing time: 0.025 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.009 seconds
+
+Convergence in 37 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 0.990 seconds
+Testing time: 0.024 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.009 seconds
+
+--------------5000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 146.171 seconds
+Testing time: 0.021 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.009 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3942.0 instances.
+Incorrectly classified 676.0 instances.
+Percent correctly classified: 85.362%
+Training time: 139.004 seconds
+Testing time: 0.025 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1705.0 instances.
+Incorrectly classified 275.0 instances.
+Percent correctly classified: 86.111%
+Testing time: 0.012 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3890.0 instances.
+Incorrectly classified 728.0 instances.
+Percent correctly classified: 84.236%
+Training time: 138.859 seconds
+Testing time: 0.022 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1677.0 instances.
+Incorrectly classified 303.0 instances.
+Percent correctly classified: 84.697%
+Testing time: 0.009 seconds
+
+Convergence in 574 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3911.0 instances.
+Incorrectly classified 707.0 instances.
+Percent correctly classified: 84.690%
+Training time: 15.386 seconds
+Testing time: 0.025 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1690.0 instances.
+Incorrectly classified 290.0 instances.
+Percent correctly classified: 85.354%
+Testing time: 0.012 seconds
+
+--------------5 hidden layers--------------
+--------------100 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3344.0 instances.
+Incorrectly classified 1274.0 instances.
+Percent correctly classified: 72.412%
+Training time: 3.783 seconds
+Testing time: 0.029 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1433.0 instances.
+Incorrectly classified 547.0 instances.
+Percent correctly classified: 72.374%
+Testing time: 0.012 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 2149.0 instances.
+Incorrectly classified 2469.0 instances.
+Percent correctly classified: 46.535%
+Training time: 3.647 seconds
+Testing time: 0.027 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 907.0 instances.
+Incorrectly classified 1073.0 instances.
+Percent correctly classified: 45.808%
+Testing time: 0.016 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3840.0 instances.
+Incorrectly classified 778.0 instances.
+Percent correctly classified: 83.153%
+Training time: 3.974 seconds
+Testing time: 0.032 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1666.0 instances.
+Incorrectly classified 314.0 instances.
+Percent correctly classified: 84.141%
+Testing time: 0.010 seconds
+
+Convergence in 100 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3966.0 instances.
+Incorrectly classified 652.0 instances.
+Percent correctly classified: 85.881%
+Training time: 4.014 seconds
+Testing time: 0.029 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1696.0 instances.
+Incorrectly classified 284.0 instances.
+Percent correctly classified: 85.657%
+Testing time: 0.012 seconds
+
+--------------200 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3828.0 instances.
+Incorrectly classified 790.0 instances.
+Percent correctly classified: 82.893%
+Training time: 7.651 seconds
+Testing time: 0.028 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1642.0 instances.
+Incorrectly classified 338.0 instances.
+Percent correctly classified: 82.929%
+Testing time: 0.012 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 1275.0 instances.
+Incorrectly classified 3343.0 instances.
+Percent correctly classified: 27.609%
+Training time: 7.408 seconds
+Testing time: 0.034 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 535.0 instances.
+Incorrectly classified 1445.0 instances.
+Percent correctly classified: 27.020%
+Testing time: 0.013 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3888.0 instances.
+Incorrectly classified 730.0 instances.
+Percent correctly classified: 84.192%
+Training time: 8.454 seconds
+Testing time: 0.028 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1681.0 instances.
+Incorrectly classified 299.0 instances.
+Percent correctly classified: 84.899%
+Testing time: 0.011 seconds
+
+Convergence in 200 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 8.225 seconds
+Testing time: 0.033 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.013 seconds
+
+--------------400 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3883.0 instances.
+Incorrectly classified 735.0 instances.
+Percent correctly classified: 84.084%
+Training time: 14.705 seconds
+Testing time: 0.027 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1667.0 instances.
+Incorrectly classified 313.0 instances.
+Percent correctly classified: 84.192%
+Testing time: 0.011 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 2597.0 instances.
+Incorrectly classified 2021.0 instances.
+Percent correctly classified: 56.236%
+Training time: 15.940 seconds
+Testing time: 0.028 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1087.0 instances.
+Incorrectly classified 893.0 instances.
+Percent correctly classified: 54.899%
+Testing time: 0.014 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3888.0 instances.
+Incorrectly classified 730.0 instances.
+Percent correctly classified: 84.192%
+Training time: 16.614 seconds
+Testing time: 0.031 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1685.0 instances.
+Incorrectly classified 295.0 instances.
+Percent correctly classified: 85.101%
+Testing time: 0.013 seconds
+
+Convergence in 232 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3951.0 instances.
+Incorrectly classified 667.0 instances.
+Percent correctly classified: 85.557%
+Training time: 9.491 seconds
+Testing time: 0.029 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1696.0 instances.
+Incorrectly classified 284.0 instances.
+Percent correctly classified: 85.657%
+Testing time: 0.012 seconds
+
+--------------600 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3892.0 instances.
+Incorrectly classified 726.0 instances.
+Percent correctly classified: 84.279%
+Training time: 22.877 seconds
+Testing time: 0.026 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.015 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 2013.0 instances.
+Incorrectly classified 2605.0 instances.
+Percent correctly classified: 43.590%
+Training time: 22.394 seconds
+Testing time: 0.029 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 890.0 instances.
+Incorrectly classified 1090.0 instances.
+Percent correctly classified: 44.949%
+Testing time: 0.013 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3867.0 instances.
+Incorrectly classified 751.0 instances.
+Percent correctly classified: 83.738%
+Training time: 24.411 seconds
+Testing time: 0.024 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1672.0 instances.
+Incorrectly classified 308.0 instances.
+Percent correctly classified: 84.444%
+Testing time: 0.011 seconds
+
+Convergence in 270 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 11.090 seconds
+Testing time: 0.028 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.015 seconds
+
+--------------1000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 4000.0 instances.
+Incorrectly classified 618.0 instances.
+Percent correctly classified: 86.618%
+Training time: 37.958 seconds
+Testing time: 0.031 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1728.0 instances.
+Incorrectly classified 252.0 instances.
+Percent correctly classified: 87.273%
+Testing time: 0.010 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 1830.0 instances.
+Incorrectly classified 2788.0 instances.
+Percent correctly classified: 39.628%
+Training time: 38.514 seconds
+Testing time: 0.029 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 792.0 instances.
+Incorrectly classified 1188.0 instances.
+Percent correctly classified: 40.000%
+Testing time: 0.012 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3898.0 instances.
+Incorrectly classified 720.0 instances.
+Percent correctly classified: 84.409%
+Training time: 40.384 seconds
+Testing time: 0.027 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.012 seconds
+
+Convergence in 1000 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3897.0 instances.
+Incorrectly classified 721.0 instances.
+Percent correctly classified: 84.387%
+Training time: 41.363 seconds
+Testing time: 0.031 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.016 seconds
+
+--------------1500 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 4063.0 instances.
+Incorrectly classified 555.0 instances.
+Percent correctly classified: 87.982%
+Training time: 59.111 seconds
+Testing time: 0.032 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1744.0 instances.
+Incorrectly classified 236.0 instances.
+Percent correctly classified: 88.081%
+Testing time: 0.017 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3876.0 instances.
+Incorrectly classified 742.0 instances.
+Percent correctly classified: 83.932%
+Training time: 57.552 seconds
+Testing time: 0.032 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1676.0 instances.
+Incorrectly classified 304.0 instances.
+Percent correctly classified: 84.646%
+Testing time: 0.011 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3888.0 instances.
+Incorrectly classified 730.0 instances.
+Percent correctly classified: 84.192%
+Training time: 59.149 seconds
+Testing time: 0.027 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1685.0 instances.
+Incorrectly classified 295.0 instances.
+Percent correctly classified: 85.101%
+Testing time: 0.012 seconds
+
+Convergence in 1500 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4098.0 instances.
+Incorrectly classified 520.0 instances.
+Percent correctly classified: 88.740%
+Training time: 56.247 seconds
+Testing time: 0.028 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1756.0 instances.
+Incorrectly classified 224.0 instances.
+Percent correctly classified: 88.687%
+Testing time: 0.012 seconds
+
+--------------2000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3953.0 instances.
+Incorrectly classified 665.0 instances.
+Percent correctly classified: 85.600%
+Training time: 70.735 seconds
+Testing time: 0.024 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1712.0 instances.
+Incorrectly classified 268.0 instances.
+Percent correctly classified: 86.465%
+Testing time: 0.014 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 70.646 seconds
+Testing time: 0.025 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.014 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3882.0 instances.
+Incorrectly classified 736.0 instances.
+Percent correctly classified: 84.062%
+Training time: 73.726 seconds
+Testing time: 0.024 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1683.0 instances.
+Incorrectly classified 297.0 instances.
+Percent correctly classified: 85.000%
+Testing time: 0.010 seconds
+
+Convergence in 1472 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3922.0 instances.
+Incorrectly classified 696.0 instances.
+Percent correctly classified: 84.929%
+Training time: 55.743 seconds
+Testing time: 0.034 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1694.0 instances.
+Incorrectly classified 286.0 instances.
+Percent correctly classified: 85.556%
+Testing time: 0.015 seconds
+
+--------------5000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 4143.0 instances.
+Incorrectly classified 475.0 instances.
+Percent correctly classified: 89.714%
+Training time: 176.405 seconds
+Testing time: 0.026 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1793.0 instances.
+Incorrectly classified 187.0 instances.
+Percent correctly classified: 90.556%
+Testing time: 0.011 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 4057.0 instances.
+Incorrectly classified 561.0 instances.
+Percent correctly classified: 87.852%
+Training time: 177.037 seconds
+Testing time: 0.027 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1746.0 instances.
+Incorrectly classified 234.0 instances.
+Percent correctly classified: 88.182%
+Testing time: 0.011 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3890.0 instances.
+Incorrectly classified 728.0 instances.
+Percent correctly classified: 84.236%
+Training time: 185.259 seconds
+Testing time: 0.026 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1685.0 instances.
+Incorrectly classified 295.0 instances.
+Percent correctly classified: 85.101%
+Testing time: 0.012 seconds
+
+Convergence in 195 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 7.377 seconds
+Testing time: 0.029 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.013 seconds
+
+--------------10 hidden layers--------------
+--------------100 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3521.0 instances.
+Incorrectly classified 1097.0 instances.
+Percent correctly classified: 76.245%
+Training time: 5.961 seconds
+Testing time: 0.035 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1536.0 instances.
+Incorrectly classified 444.0 instances.
+Percent correctly classified: 77.576%
+Testing time: 0.017 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 1375.0 instances.
+Incorrectly classified 3243.0 instances.
+Percent correctly classified: 29.775%
+Training time: 5.859 seconds
+Testing time: 0.037 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 580.0 instances.
+Incorrectly classified 1400.0 instances.
+Percent correctly classified: 29.293%
+Testing time: 0.017 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3861.0 instances.
+Incorrectly classified 757.0 instances.
+Percent correctly classified: 83.608%
+Training time: 6.709 seconds
+Testing time: 0.038 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1670.0 instances.
+Incorrectly classified 310.0 instances.
+Percent correctly classified: 84.343%
+Testing time: 0.016 seconds
+
+Convergence in 100 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4070.0 instances.
+Incorrectly classified 548.0 instances.
+Percent correctly classified: 88.133%
+Training time: 7.245 seconds
+Testing time: 0.049 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1729.0 instances.
+Incorrectly classified 251.0 instances.
+Percent correctly classified: 87.323%
+Testing time: 0.019 seconds
+
+--------------200 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3025.0 instances.
+Incorrectly classified 1593.0 instances.
+Percent correctly classified: 65.505%
+Training time: 11.827 seconds
+Testing time: 0.034 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1270.0 instances.
+Incorrectly classified 710.0 instances.
+Percent correctly classified: 64.141%
+Testing time: 0.016 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 2014.0 instances.
+Incorrectly classified 2604.0 instances.
+Percent correctly classified: 43.612%
+Training time: 11.746 seconds
+Testing time: 0.045 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 861.0 instances.
+Incorrectly classified 1119.0 instances.
+Percent correctly classified: 43.485%
+Testing time: 0.019 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3884.0 instances.
+Incorrectly classified 734.0 instances.
+Percent correctly classified: 84.106%
+Training time: 13.798 seconds
+Testing time: 0.042 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1682.0 instances.
+Incorrectly classified 298.0 instances.
+Percent correctly classified: 84.949%
+Testing time: 0.016 seconds
+
+Convergence in 200 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3941.0 instances.
+Incorrectly classified 677.0 instances.
+Percent correctly classified: 85.340%
+Training time: 14.780 seconds
+Testing time: 0.043 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1702.0 instances.
+Incorrectly classified 278.0 instances.
+Percent correctly classified: 85.960%
+Testing time: 0.019 seconds
+
+--------------400 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3204.0 instances.
+Incorrectly classified 1414.0 instances.
+Percent correctly classified: 69.381%
+Training time: 24.473 seconds
+Testing time: 0.040 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1360.0 instances.
+Incorrectly classified 620.0 instances.
+Percent correctly classified: 68.687%
+Testing time: 0.015 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3472.0 instances.
+Incorrectly classified 1146.0 instances.
+Percent correctly classified: 75.184%
+Training time: 24.049 seconds
+Testing time: 0.042 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1509.0 instances.
+Incorrectly classified 471.0 instances.
+Percent correctly classified: 76.212%
+Testing time: 0.022 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3888.0 instances.
+Incorrectly classified 730.0 instances.
+Percent correctly classified: 84.192%
+Training time: 27.322 seconds
+Testing time: 0.039 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1683.0 instances.
+Incorrectly classified 297.0 instances.
+Percent correctly classified: 85.000%
+Testing time: 0.018 seconds
+
+Convergence in 400 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4034.0 instances.
+Incorrectly classified 584.0 instances.
+Percent correctly classified: 87.354%
+Training time: 29.215 seconds
+Testing time: 0.045 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1727.0 instances.
+Incorrectly classified 253.0 instances.
+Percent correctly classified: 87.222%
+Testing time: 0.023 seconds
+
+--------------600 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3895.0 instances.
+Incorrectly classified 723.0 instances.
+Percent correctly classified: 84.344%
+Training time: 36.885 seconds
+Testing time: 0.037 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1683.0 instances.
+Incorrectly classified 297.0 instances.
+Percent correctly classified: 85.000%
+Testing time: 0.023 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3725.0 instances.
+Incorrectly classified 893.0 instances.
+Percent correctly classified: 80.663%
+Training time: 35.085 seconds
+Testing time: 0.042 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1615.0 instances.
+Incorrectly classified 365.0 instances.
+Percent correctly classified: 81.566%
+Testing time: 0.021 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3877.0 instances.
+Incorrectly classified 741.0 instances.
+Percent correctly classified: 83.954%
+Training time: 41.854 seconds
+Testing time: 0.040 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1684.0 instances.
+Incorrectly classified 296.0 instances.
+Percent correctly classified: 85.051%
+Testing time: 0.020 seconds
+
+Convergence in 600 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 44.301 seconds
+Testing time: 0.041 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.015 seconds
+
+--------------1000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 60.858 seconds
+Testing time: 0.040 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1684.0 instances.
+Incorrectly classified 296.0 instances.
+Percent correctly classified: 85.051%
+Testing time: 0.016 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 2402.0 instances.
+Incorrectly classified 2216.0 instances.
+Percent correctly classified: 52.014%
+Training time: 58.764 seconds
+Testing time: 0.040 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 989.0 instances.
+Incorrectly classified 991.0 instances.
+Percent correctly classified: 49.949%
+Testing time: 0.016 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3902.0 instances.
+Incorrectly classified 716.0 instances.
+Percent correctly classified: 84.495%
+Training time: 68.335 seconds
+Testing time: 0.039 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.016 seconds
+
+Convergence in 1000 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3977.0 instances.
+Incorrectly classified 641.0 instances.
+Percent correctly classified: 86.120%
+Training time: 71.973 seconds
+Testing time: 0.049 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1692.0 instances.
+Incorrectly classified 288.0 instances.
+Percent correctly classified: 85.455%
+Testing time: 0.028 seconds
+
+--------------1500 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3981.0 instances.
+Incorrectly classified 637.0 instances.
+Percent correctly classified: 86.206%
+Training time: 91.249 seconds
+Testing time: 0.040 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1728.0 instances.
+Incorrectly classified 252.0 instances.
+Percent correctly classified: 87.273%
+Testing time: 0.018 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3863.0 instances.
+Incorrectly classified 755.0 instances.
+Percent correctly classified: 83.651%
+Training time: 88.455 seconds
+Testing time: 0.037 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1659.0 instances.
+Incorrectly classified 321.0 instances.
+Percent correctly classified: 83.788%
+Testing time: 0.021 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3895.0 instances.
+Incorrectly classified 723.0 instances.
+Percent correctly classified: 84.344%
+Training time: 103.278 seconds
+Testing time: 0.043 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.015 seconds
+
+Convergence in 286 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4060.0 instances.
+Incorrectly classified 558.0 instances.
+Percent correctly classified: 87.917%
+Training time: 20.492 seconds
+Testing time: 0.039 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1748.0 instances.
+Incorrectly classified 232.0 instances.
+Percent correctly classified: 88.283%
+Testing time: 0.015 seconds
+
+--------------2000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3905.0 instances.
+Incorrectly classified 713.0 instances.
+Percent correctly classified: 84.560%
+Training time: 120.381 seconds
+Testing time: 0.040 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1684.0 instances.
+Incorrectly classified 296.0 instances.
+Percent correctly classified: 85.051%
+Testing time: 0.015 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3938.0 instances.
+Incorrectly classified 680.0 instances.
+Percent correctly classified: 85.275%
+Training time: 121.133 seconds
+Testing time: 0.038 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1703.0 instances.
+Incorrectly classified 277.0 instances.
+Percent correctly classified: 86.010%
+Testing time: 0.021 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 138.407 seconds
+Testing time: 0.035 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1686.0 instances.
+Incorrectly classified 294.0 instances.
+Percent correctly classified: 85.152%
+Testing time: 0.015 seconds
+
+Convergence in 1368 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3946.0 instances.
+Incorrectly classified 672.0 instances.
+Percent correctly classified: 85.448%
+Training time: 98.833 seconds
+Testing time: 0.040 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1697.0 instances.
+Incorrectly classified 283.0 instances.
+Percent correctly classified: 85.707%
+Testing time: 0.018 seconds
+
+--------------5000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3907.0 instances.
+Incorrectly classified 711.0 instances.
+Percent correctly classified: 84.604%
+Training time: 309.970 seconds
+Testing time: 0.036 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.019 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 4166.0 instances.
+Incorrectly classified 452.0 instances.
+Percent correctly classified: 90.212%
+Training time: 290.909 seconds
+Testing time: 0.038 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1789.0 instances.
+Incorrectly classified 191.0 instances.
+Percent correctly classified: 90.354%
+Testing time: 0.015 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3894.0 instances.
+Incorrectly classified 724.0 instances.
+Percent correctly classified: 84.322%
+Training time: 293.323 seconds
+Testing time: 0.035 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.017 seconds
+
+Convergence in 742 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4053.0 instances.
+Incorrectly classified 565.0 instances.
+Percent correctly classified: 87.765%
+Training time: 48.108 seconds
+Testing time: 0.043 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1731.0 instances.
+Incorrectly classified 249.0 instances.
+Percent correctly classified: 87.424%
+Testing time: 0.016 seconds
+
+--------------20 hidden layers--------------
+--------------100 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 2690.0 instances.
+Incorrectly classified 1928.0 instances.
+Percent correctly classified: 58.250%
+Training time: 11.214 seconds
+Testing time: 0.063 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1159.0 instances.
+Incorrectly classified 821.0 instances.
+Percent correctly classified: 58.535%
+Testing time: 0.028 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3061.0 instances.
+Incorrectly classified 1557.0 instances.
+Percent correctly classified: 66.284%
+Training time: 11.052 seconds
+Testing time: 0.068 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1295.0 instances.
+Incorrectly classified 685.0 instances.
+Percent correctly classified: 65.404%
+Testing time: 0.027 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3781.0 instances.
+Incorrectly classified 837.0 instances.
+Percent correctly classified: 81.875%
+Training time: 13.715 seconds
+Testing time: 0.065 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1641.0 instances.
+Incorrectly classified 339.0 instances.
+Percent correctly classified: 82.879%
+Testing time: 0.029 seconds
+
+Convergence in 100 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4119.0 instances.
+Incorrectly classified 499.0 instances.
+Percent correctly classified: 89.194%
+Training time: 14.466 seconds
+Testing time: 0.071 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1765.0 instances.
+Incorrectly classified 215.0 instances.
+Percent correctly classified: 89.141%
+Testing time: 0.031 seconds
+
+--------------200 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3219.0 instances.
+Incorrectly classified 1399.0 instances.
+Percent correctly classified: 69.706%
+Training time: 21.898 seconds
+Testing time: 0.064 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1412.0 instances.
+Incorrectly classified 568.0 instances.
+Percent correctly classified: 71.313%
+Testing time: 0.028 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3175.0 instances.
+Incorrectly classified 1443.0 instances.
+Percent correctly classified: 68.753%
+Training time: 24.084 seconds
+Testing time: 0.073 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1425.0 instances.
+Incorrectly classified 555.0 instances.
+Percent correctly classified: 71.970%
+Testing time: 0.029 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3858.0 instances.
+Incorrectly classified 760.0 instances.
+Percent correctly classified: 83.543%
+Training time: 30.268 seconds
+Testing time: 0.071 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1677.0 instances.
+Incorrectly classified 303.0 instances.
+Percent correctly classified: 84.697%
+Testing time: 0.028 seconds
+
+Convergence in 200 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3955.0 instances.
+Incorrectly classified 663.0 instances.
+Percent correctly classified: 85.643%
+Training time: 31.848 seconds
+Testing time: 0.096 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1701.0 instances.
+Incorrectly classified 279.0 instances.
+Percent correctly classified: 85.909%
+Testing time: 0.037 seconds
+
+--------------400 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 1839.0 instances.
+Incorrectly classified 2779.0 instances.
+Percent correctly classified: 39.822%
+Training time: 52.805 seconds
+Testing time: 0.078 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 778.0 instances.
+Incorrectly classified 1202.0 instances.
+Percent correctly classified: 39.293%
+Testing time: 0.032 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 2595.0 instances.
+Incorrectly classified 2023.0 instances.
+Percent correctly classified: 56.193%
+Training time: 52.290 seconds
+Testing time: 0.076 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1105.0 instances.
+Incorrectly classified 875.0 instances.
+Percent correctly classified: 55.808%
+Testing time: 0.031 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3877.0 instances.
+Incorrectly classified 741.0 instances.
+Percent correctly classified: 83.954%
+Training time: 65.004 seconds
+Testing time: 0.081 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1677.0 instances.
+Incorrectly classified 303.0 instances.
+Percent correctly classified: 84.697%
+Testing time: 0.040 seconds
+
+Convergence in 400 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 3948.0 instances.
+Incorrectly classified 670.0 instances.
+Percent correctly classified: 85.492%
+Training time: 69.247 seconds
+Testing time: 0.080 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1697.0 instances.
+Incorrectly classified 283.0 instances.
+Percent correctly classified: 85.707%
+Testing time: 0.041 seconds
+
+--------------600 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3845.0 instances.
+Incorrectly classified 773.0 instances.
+Percent correctly classified: 83.261%
+Training time: 76.804 seconds
+Testing time: 0.074 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1657.0 instances.
+Incorrectly classified 323.0 instances.
+Percent correctly classified: 83.687%
+Testing time: 0.032 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3300.0 instances.
+Incorrectly classified 1318.0 instances.
+Percent correctly classified: 71.460%
+Training time: 74.445 seconds
+Testing time: 0.071 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1444.0 instances.
+Incorrectly classified 536.0 instances.
+Percent correctly classified: 72.929%
+Testing time: 0.032 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3890.0 instances.
+Incorrectly classified 728.0 instances.
+Percent correctly classified: 84.236%
+Training time: 90.545 seconds
+Testing time: 0.075 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1679.0 instances.
+Incorrectly classified 301.0 instances.
+Percent correctly classified: 84.798%
+Testing time: 0.035 seconds
+
+Convergence in 600 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4066.0 instances.
+Incorrectly classified 552.0 instances.
+Percent correctly classified: 88.047%
+Training time: 96.175 seconds
+Testing time: 0.078 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1745.0 instances.
+Incorrectly classified 235.0 instances.
+Percent correctly classified: 88.131%
+Testing time: 0.031 seconds
+
+--------------1000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3963.0 instances.
+Incorrectly classified 655.0 instances.
+Percent correctly classified: 85.816%
+Training time: 129.582 seconds
+Testing time: 0.084 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1712.0 instances.
+Incorrectly classified 268.0 instances.
+Percent correctly classified: 86.465%
+Testing time: 0.035 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3340.0 instances.
+Incorrectly classified 1278.0 instances.
+Percent correctly classified: 72.326%
+Training time: 126.139 seconds
+Testing time: 0.080 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1478.0 instances.
+Incorrectly classified 502.0 instances.
+Percent correctly classified: 74.646%
+Testing time: 0.029 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3896.0 instances.
+Incorrectly classified 722.0 instances.
+Percent correctly classified: 84.366%
+Training time: 150.774 seconds
+Testing time: 0.066 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1690.0 instances.
+Incorrectly classified 290.0 instances.
+Percent correctly classified: 85.354%
+Testing time: 0.031 seconds
+
+Convergence in 1000 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4153.0 instances.
+Incorrectly classified 465.0 instances.
+Percent correctly classified: 89.931%
+Training time: 164.247 seconds
+Testing time: 0.073 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1759.0 instances.
+Incorrectly classified 221.0 instances.
+Percent correctly classified: 88.838%
+Testing time: 0.034 seconds
+
+--------------1500 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3903.0 instances.
+Incorrectly classified 715.0 instances.
+Percent correctly classified: 84.517%
+Training time: 196.384 seconds
+Testing time: 0.078 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1690.0 instances.
+Incorrectly classified 290.0 instances.
+Percent correctly classified: 85.354%
+Testing time: 0.035 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3870.0 instances.
+Incorrectly classified 748.0 instances.
+Percent correctly classified: 83.803%
+Training time: 190.193 seconds
+Testing time: 0.071 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1670.0 instances.
+Incorrectly classified 310.0 instances.
+Percent correctly classified: 84.343%
+Testing time: 0.031 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3893.0 instances.
+Incorrectly classified 725.0 instances.
+Percent correctly classified: 84.301%
+Training time: 209.789 seconds
+Testing time: 0.064 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1681.0 instances.
+Incorrectly classified 299.0 instances.
+Percent correctly classified: 84.899%
+Testing time: 0.026 seconds
+
+Convergence in 1314 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4105.0 instances.
+Incorrectly classified 513.0 instances.
+Percent correctly classified: 88.891%
+Training time: 198.075 seconds
+Testing time: 0.079 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1756.0 instances.
+Incorrectly classified 224.0 instances.
+Percent correctly classified: 88.687%
+Testing time: 0.031 seconds
+
+--------------2000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 4117.0 instances.
+Incorrectly classified 501.0 instances.
+Percent correctly classified: 89.151%
+Training time: 225.677 seconds
+Testing time: 0.070 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1758.0 instances.
+Incorrectly classified 222.0 instances.
+Percent correctly classified: 88.788%
+Testing time: 0.032 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3927.0 instances.
+Incorrectly classified 691.0 instances.
+Percent correctly classified: 85.037%
+Training time: 248.305 seconds
+Testing time: 0.079 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1699.0 instances.
+Incorrectly classified 281.0 instances.
+Percent correctly classified: 85.808%
+Testing time: 0.034 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3934.0 instances.
+Incorrectly classified 684.0 instances.
+Percent correctly classified: 85.188%
+Training time: 298.179 seconds
+Testing time: 0.068 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1700.0 instances.
+Incorrectly classified 280.0 instances.
+Percent correctly classified: 85.859%
+Testing time: 0.035 seconds
+
+Convergence in 2000 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4136.0 instances.
+Incorrectly classified 482.0 instances.
+Percent correctly classified: 89.563%
+Training time: 320.019 seconds
+Testing time: 0.087 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1773.0 instances.
+Incorrectly classified 207.0 instances.
+Percent correctly classified: 89.545%
+Testing time: 0.033 seconds
+
+--------------5000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 4238.0 instances.
+Incorrectly classified 380.0 instances.
+Percent correctly classified: 91.771%
+Training time: 693.157 seconds
+Testing time: 0.083 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1802.0 instances.
+Incorrectly classified 178.0 instances.
+Percent correctly classified: 91.010%
+Testing time: 0.039 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 4196.0 instances.
+Incorrectly classified 422.0 instances.
+Percent correctly classified: 90.862%
+Training time: 700.089 seconds
+Testing time: 0.076 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1790.0 instances.
+Incorrectly classified 190.0 instances.
+Percent correctly classified: 90.404%
+Testing time: 0.035 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3869.0 instances.
+Incorrectly classified 749.0 instances.
+Percent correctly classified: 83.781%
+Training time: 888.627 seconds
+Testing time: 0.102 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1684.0 instances.
+Incorrectly classified 296.0 instances.
+Percent correctly classified: 85.051%
+Testing time: 0.042 seconds
+
+Convergence in 5000 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4257.0 instances.
+Incorrectly classified 361.0 instances.
+Percent correctly classified: 92.183%
+Training time: 893.577 seconds
+Testing time: 0.082 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1763.0 instances.
+Incorrectly classified 217.0 instances.
+Percent correctly classified: 89.040%
+Testing time: 0.036 seconds
+
+--------------40 hidden layers--------------
+--------------100 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3461.0 instances.
+Incorrectly classified 1157.0 instances.
+Percent correctly classified: 74.946%
+Training time: 27.879 seconds
+Testing time: 0.159 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1509.0 instances.
+Incorrectly classified 471.0 instances.
+Percent correctly classified: 76.212%
+Testing time: 0.069 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 1327.0 instances.
+Incorrectly classified 3291.0 instances.
+Percent correctly classified: 28.735%
+Training time: 28.407 seconds
+Testing time: 0.154 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 537.0 instances.
+Incorrectly classified 1443.0 instances.
+Percent correctly classified: 27.121%
+Testing time: 0.069 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3854.0 instances.
+Incorrectly classified 764.0 instances.
+Percent correctly classified: 83.456%
+Training time: 37.952 seconds
+Testing time: 0.154 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1652.0 instances.
+Incorrectly classified 328.0 instances.
+Percent correctly classified: 83.434%
+Testing time: 0.066 seconds
+
+Convergence in 100 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4122.0 instances.
+Incorrectly classified 496.0 instances.
+Percent correctly classified: 89.259%
+Training time: 37.123 seconds
+Testing time: 0.162 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1758.0 instances.
+Incorrectly classified 222.0 instances.
+Percent correctly classified: 88.788%
+Testing time: 0.079 seconds
+
+--------------200 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3025.0 instances.
+Incorrectly classified 1593.0 instances.
+Percent correctly classified: 65.505%
+Training time: 55.781 seconds
+Testing time: 0.147 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1316.0 instances.
+Incorrectly classified 664.0 instances.
+Percent correctly classified: 66.465%
+Testing time: 0.064 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 1160.0 instances.
+Incorrectly classified 3458.0 instances.
+Percent correctly classified: 25.119%
+Training time: 57.668 seconds
+Testing time: 0.153 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 483.0 instances.
+Incorrectly classified 1497.0 instances.
+Percent correctly classified: 24.394%
+Testing time: 0.061 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3861.0 instances.
+Incorrectly classified 757.0 instances.
+Percent correctly classified: 83.608%
+Training time: 72.331 seconds
+Testing time: 0.150 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1677.0 instances.
+Incorrectly classified 303.0 instances.
+Percent correctly classified: 84.697%
+Testing time: 0.067 seconds
+
+Convergence in 200 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4218.0 instances.
+Incorrectly classified 400.0 instances.
+Percent correctly classified: 91.338%
+Training time: 74.914 seconds
+Testing time: 0.170 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1791.0 instances.
+Incorrectly classified 189.0 instances.
+Percent correctly classified: 90.455%
+Testing time: 0.075 seconds
+
+--------------400 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 2492.0 instances.
+Incorrectly classified 2126.0 instances.
+Percent correctly classified: 53.963%
+Training time: 111.307 seconds
+Testing time: 0.149 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1059.0 instances.
+Incorrectly classified 921.0 instances.
+Percent correctly classified: 53.485%
+Testing time: 0.065 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 2978.0 instances.
+Incorrectly classified 1640.0 instances.
+Percent correctly classified: 64.487%
+Training time: 112.615 seconds
+Testing time: 0.154 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1263.0 instances.
+Incorrectly classified 717.0 instances.
+Percent correctly classified: 63.788%
+Testing time: 0.067 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3899.0 instances.
+Incorrectly classified 719.0 instances.
+Percent correctly classified: 84.430%
+Training time: 146.247 seconds
+Testing time: 0.157 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1687.0 instances.
+Incorrectly classified 293.0 instances.
+Percent correctly classified: 85.202%
+Testing time: 0.066 seconds
+
+Convergence in 400 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4156.0 instances.
+Incorrectly classified 462.0 instances.
+Percent correctly classified: 89.996%
+Training time: 150.612 seconds
+Testing time: 0.166 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1771.0 instances.
+Incorrectly classified 209.0 instances.
+Percent correctly classified: 89.444%
+Testing time: 0.068 seconds
+
+--------------600 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3221.0 instances.
+Incorrectly classified 1397.0 instances.
+Percent correctly classified: 69.749%
+Training time: 165.837 seconds
+Testing time: 0.150 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1384.0 instances.
+Incorrectly classified 596.0 instances.
+Percent correctly classified: 69.899%
+Testing time: 0.065 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 1100.0 instances.
+Incorrectly classified 3518.0 instances.
+Percent correctly classified: 23.820%
+Training time: 163.211 seconds
+Testing time: 0.139 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 436.0 instances.
+Incorrectly classified 1544.0 instances.
+Percent correctly classified: 22.020%
+Testing time: 0.074 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3878.0 instances.
+Incorrectly classified 740.0 instances.
+Percent correctly classified: 83.976%
+Training time: 216.040 seconds
+Testing time: 0.166 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1676.0 instances.
+Incorrectly classified 304.0 instances.
+Percent correctly classified: 84.646%
+Testing time: 0.064 seconds
+
+Convergence in 600 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4116.0 instances.
+Incorrectly classified 502.0 instances.
+Percent correctly classified: 89.129%
+Training time: 220.097 seconds
+Testing time: 0.167 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1752.0 instances.
+Incorrectly classified 228.0 instances.
+Percent correctly classified: 88.485%
+Testing time: 0.074 seconds
+
+--------------1000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3915.0 instances.
+Incorrectly classified 703.0 instances.
+Percent correctly classified: 84.777%
+Training time: 288.654 seconds
+Testing time: 0.157 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1675.0 instances.
+Incorrectly classified 305.0 instances.
+Percent correctly classified: 84.596%
+Testing time: 0.065 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3747.0 instances.
+Incorrectly classified 871.0 instances.
+Percent correctly classified: 81.139%
+Training time: 287.196 seconds
+Testing time: 0.171 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1622.0 instances.
+Incorrectly classified 358.0 instances.
+Percent correctly classified: 81.919%
+Testing time: 0.070 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3895.0 instances.
+Incorrectly classified 723.0 instances.
+Percent correctly classified: 84.344%
+Training time: 378.002 seconds
+Testing time: 0.148 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1680.0 instances.
+Incorrectly classified 300.0 instances.
+Percent correctly classified: 84.848%
+Testing time: 0.071 seconds
+
+Convergence in 1000 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4243.0 instances.
+Incorrectly classified 375.0 instances.
+Percent correctly classified: 91.880%
+Training time: 373.141 seconds
+Testing time: 0.164 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1807.0 instances.
+Incorrectly classified 173.0 instances.
+Percent correctly classified: 91.263%
+Testing time: 0.069 seconds
+
+--------------1500 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 3892.0 instances.
+Incorrectly classified 726.0 instances.
+Percent correctly classified: 84.279%
+Training time: 419.067 seconds
+Testing time: 0.156 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1672.0 instances.
+Incorrectly classified 308.0 instances.
+Percent correctly classified: 84.444%
+Testing time: 0.072 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3826.0 instances.
+Incorrectly classified 792.0 instances.
+Percent correctly classified: 82.850%
+Training time: 446.860 seconds
+Testing time: 0.155 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1652.0 instances.
+Incorrectly classified 328.0 instances.
+Percent correctly classified: 83.434%
+Testing time: 0.066 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3882.0 instances.
+Incorrectly classified 736.0 instances.
+Percent correctly classified: 84.062%
+Training time: 589.297 seconds
+Testing time: 0.176 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1680.0 instances.
+Incorrectly classified 300.0 instances.
+Percent correctly classified: 84.848%
+Testing time: 0.078 seconds
+
+Convergence in 1500 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4229.0 instances.
+Incorrectly classified 389.0 instances.
+Percent correctly classified: 91.576%
+Training time: 667.169 seconds
+Testing time: 0.193 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1778.0 instances.
+Incorrectly classified 202.0 instances.
+Percent correctly classified: 89.798%
+Testing time: 0.081 seconds
+
+--------------2000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 4006.0 instances.
+Incorrectly classified 612.0 instances.
+Percent correctly classified: 86.748%
+Training time: 630.292 seconds
+Testing time: 0.169 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1713.0 instances.
+Incorrectly classified 267.0 instances.
+Percent correctly classified: 86.515%
+Testing time: 0.073 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 3863.0 instances.
+Incorrectly classified 755.0 instances.
+Percent correctly classified: 83.651%
+Training time: 639.443 seconds
+Testing time: 0.181 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1675.0 instances.
+Incorrectly classified 305.0 instances.
+Percent correctly classified: 84.596%
+Testing time: 0.079 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3886.0 instances.
+Incorrectly classified 732.0 instances.
+Percent correctly classified: 84.149%
+Training time: 798.909 seconds
+Testing time: 0.158 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1680.0 instances.
+Incorrectly classified 300.0 instances.
+Percent correctly classified: 84.848%
+Testing time: 0.067 seconds
+
+Convergence in 842 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4160.0 instances.
+Incorrectly classified 458.0 instances.
+Percent correctly classified: 90.082%
+Training time: 342.293 seconds
+Testing time: 0.179 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1764.0 instances.
+Incorrectly classified 216.0 instances.
+Percent correctly classified: 89.091%
+Testing time: 0.081 seconds
+
+--------------5000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 4236.0 instances.
+Incorrectly classified 382.0 instances.
+Percent correctly classified: 91.728%
+Training time: 1435.179 seconds
+Testing time: 0.147 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 1799.0 instances.
+Incorrectly classified 181.0 instances.
+Percent correctly classified: 90.859%
+Testing time: 0.058 seconds
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 4253.0 instances.
+Incorrectly classified 365.0 instances.
+Percent correctly classified: 92.096%
+Training time: 1323.806 seconds
+Testing time: 0.135 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 1809.0 instances.
+Incorrectly classified 171.0 instances.
+Percent correctly classified: 91.364%
+Testing time: 0.060 seconds
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 3977.0 instances.
+Incorrectly classified 641.0 instances.
+Percent correctly classified: 86.120%
+Training time: 1661.514 seconds
+Testing time: 0.139 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 1717.0 instances.
+Incorrectly classified 263.0 instances.
+Percent correctly classified: 86.717%
+Testing time: 0.060 seconds
+
+Convergence in 3569 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 4320.0 instances.
+Incorrectly classified 298.0 instances.
+Percent correctly classified: 93.547%
+Training time: 1247.795 seconds
+Testing time: 0.149 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 1818.0 instances.
+Incorrectly classified 162.0 instances.
+Percent correctly classified: 91.818%
+Testing time: 0.070 seconds
+

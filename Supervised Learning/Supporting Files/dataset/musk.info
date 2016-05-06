@@ -1,0 +1,258 @@
+Source:https://archive.ics.uci.edu/ml/datasets/Musk+(Version+2)
+
+
+Musk (Version 2) Data Set 
+Download: Data Folder, Data Set Description
+
+Abstract: The goal is to learn to predict whether new molecules will be musks or non-musks
+
+Data Set Characteristics:  
+
+Multivariate
+
+Number of Instances:
+
+6598
+
+Area:
+
+Physical
+
+Attribute Characteristics:
+
+Integer
+
+Number of Attributes:
+
+168
+
+Date Donated
+
+1994-09-12
+
+Associated Tasks:
+
+Classification
+
+Missing Values?
+
+No
+
+Number of Web Hits:
+
+33208
+
+
+Creators: 
+
+AI Group at Arris Pharmaceutical Corporation 
+contact: David Chapman or Ajay Jain 
+Arris Pharmaceutical Corporation 
+385 Oyster Point Blvd. 
+South San Francisco, CA 94080 
+415-737-8600 
+zvona '@' arris.com, jain '@' arris.com 
+
+Donor: 
+
+Tom Dietterich 
+Department of Computer Science 
+Oregon State University 
+Corvallis, OR 97331 
+503-737-5559 
+tgd '@' cs.orst.edu
+
+
+Data Set Information:
+
+This dataset describes a set of 102 molecules of which 39 are judged by human experts to be musks and the remaining 63 molecules are judged to be non-musks. The goal is to learn to predict whether new molecules will be musks or non-musks. However, the 166 features that describe these molecules depend upon the exact shape, or conformation, of the molecule. Because bonds can rotate, a single molecule can adopt many different shapes. To generate this data set, all the low-energy conformations of the molecules were generated to produce 6,598 conformations. Then, a feature vector was extracted that describes each conformation. 
+
+This many-to-one relationship between feature vectors and molecules is called the "multiple instance problem". When learning a classifier for this data, the classifier should classify a molecule as "musk" if ANY of its conformations is classified as a musk. A molecule should be classified as "non-musk" if NONE of its conformations is classified as a musk.
+
+
+Attribute Information:
+
+molecule_name: Symbolic name of each molecule. Musks have names such as MUSK-188. Non-musks have names such as NON-MUSK-jp13. 
+conformation_name: Symbolic name of each conformation. These have the format MOL_ISO+CONF, where MOL is the molecule number, ISO is the stereoisomer number (usually 1), and CONF is the conformation number. 
+f1 through f162: These are "distance features" along rays (see paper cited above). The distances are measured in hundredths of Angstroms. The distances may be negative or positive, since they are actually measured relative to an origin placed along each ray. The origin was defined by a "consensus musk" surface that is no longer used. Hence, any experiments with the data should treat these feature values as lying on an arbitrary continuous scale. In particular, the algorithm should not make any use of the zero point or the sign of each feature value. 
+f163: This is the distance of the oxygen atom in the molecule to a designated point in 3-space. This is also called OXY-DIS. 
+f164: OXY-X: X-displacement from the designated point. 
+f165: OXY-Y: Y-displacement from the designated point. 
+f166: OXY-Z: Z-displacement from the designated point. 
+class: 0 => non-musk, 1 => musk 
+
+Please note that the molecule_name and conformation_name attributes should not be used to predict the class.
+
+
+
+clean2.arff HEADER
+
+@relation clean2-weka.filters.unsupervised.attribute.NumericToNominal-Rlast
+
+@attribute 1 numeric
+@attribute 2 numeric
+@attribute 3 numeric
+@attribute 4 numeric
+@attribute 5 numeric
+@attribute 6 numeric
+@attribute 7 numeric
+@attribute 8 numeric
+@attribute 9 numeric
+@attribute 10 numeric
+@attribute 11 numeric
+@attribute 12 numeric
+@attribute 13 numeric
+@attribute 14 numeric
+@attribute 15 numeric
+@attribute 16 numeric
+@attribute 17 numeric
+@attribute 18 numeric
+@attribute 19 numeric
+@attribute 20 numeric
+@attribute 21 numeric
+@attribute 22 numeric
+@attribute 23 numeric
+@attribute 24 numeric
+@attribute 25 numeric
+@attribute 26 numeric
+@attribute 27 numeric
+@attribute 28 numeric
+@attribute 29 numeric
+@attribute 30 numeric
+@attribute 31 numeric
+@attribute 32 numeric
+@attribute 33 numeric
+@attribute 34 numeric
+@attribute 35 numeric
+@attribute 36 numeric
+@attribute 37 numeric
+@attribute 38 numeric
+@attribute 39 numeric
+@attribute 40 numeric
+@attribute 41 numeric
+@attribute 42 numeric
+@attribute 43 numeric
+@attribute 44 numeric
+@attribute 45 numeric
+@attribute 46 numeric
+@attribute 47 numeric
+@attribute 48 numeric
+@attribute 49 numeric
+@attribute 50 numeric
+@attribute 51 numeric
+@attribute 52 numeric
+@attribute 53 numeric
+@attribute 54 numeric
+@attribute 55 numeric
+@attribute 56 numeric
+@attribute 57 numeric
+@attribute 58 numeric
+@attribute 59 numeric
+@attribute 60 numeric
+@attribute 61 numeric
+@attribute 62 numeric
+@attribute 63 numeric
+@attribute 64 numeric
+@attribute 65 numeric
+@attribute 66 numeric
+@attribute 67 numeric
+@attribute 68 numeric
+@attribute 69 numeric
+@attribute 70 numeric
+@attribute 71 numeric
+@attribute 72 numeric
+@attribute 73 numeric
+@attribute 74 numeric
+@attribute 75 numeric
+@attribute 76 numeric
+@attribute 77 numeric
+@attribute 78 numeric
+@attribute 79 numeric
+@attribute 80 numeric
+@attribute 81 numeric
+@attribute 82 numeric
+@attribute 83 numeric
+@attribute 84 numeric
+@attribute 85 numeric
+@attribute 86 numeric
+@attribute 87 numeric
+@attribute 88 numeric
+@attribute 89 numeric
+@attribute 90 numeric
+@attribute 91 numeric
+@attribute 92 numeric
+@attribute 93 numeric
+@attribute 94 numeric
+@attribute 95 numeric
+@attribute 96 numeric
+@attribute 97 numeric
+@attribute 98 numeric
+@attribute 99 numeric
+@attribute 100 numeric
+@attribute 101 numeric
+@attribute 102 numeric
+@attribute 103 numeric
+@attribute 104 numeric
+@attribute 105 numeric
+@attribute 106 numeric
+@attribute 107 numeric
+@attribute 108 numeric
+@attribute 109 numeric
+@attribute 110 numeric
+@attribute 111 numeric
+@attribute 112 numeric
+@attribute 113 numeric
+@attribute 114 numeric
+@attribute 115 numeric
+@attribute 116 numeric
+@attribute 117 numeric
+@attribute 118 numeric
+@attribute 119 numeric
+@attribute 120 numeric
+@attribute 121 numeric
+@attribute 122 numeric
+@attribute 123 numeric
+@attribute 124 numeric
+@attribute 125 numeric
+@attribute 126 numeric
+@attribute 127 numeric
+@attribute 128 numeric
+@attribute 129 numeric
+@attribute 130 numeric
+@attribute 131 numeric
+@attribute 132 numeric
+@attribute 133 numeric
+@attribute 134 numeric
+@attribute 135 numeric
+@attribute 136 numeric
+@attribute 137 numeric
+@attribute 138 numeric
+@attribute 139 numeric
+@attribute 140 numeric
+@attribute 141 numeric
+@attribute 142 numeric
+@attribute 143 numeric
+@attribute 144 numeric
+@attribute 145 numeric
+@attribute 146 numeric
+@attribute 147 numeric
+@attribute 148 numeric
+@attribute 149 numeric
+@attribute 150 numeric
+@attribute 151 numeric
+@attribute 152 numeric
+@attribute 153 numeric
+@attribute 154 numeric
+@attribute 155 numeric
+@attribute 156 numeric
+@attribute 157 numeric
+@attribute 158 numeric
+@attribute 159 numeric
+@attribute 160 numeric
+@attribute 161 numeric
+@attribute 162 numeric
+@attribute 163 numeric
+@attribute 164 numeric
+@attribute 165 numeric
+@attribute 166 numeric
+@attribute Type {0,1}
